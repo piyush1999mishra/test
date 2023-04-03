@@ -8,6 +8,7 @@ public class Test1 {
 		int a=1,b=4;
 		int c=a+b;
 		System.out.println("c :" + c);
+		System.out.println("a :"+ a);
 	}
 
 }
